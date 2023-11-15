@@ -1,5 +1,4 @@
 # GUI for downloading YouTube videos
-#### Video Demo: https://www.youtube.com/watch?v=2RmNxvDXKJk
 #### Description:
 The YouTube Video Downloader is a straightforward graphical user interface (GUI) application designed to facilitate the download of your favorite YouTube videos in the MP4 format. This application has been developed using Python and leverages the tkinter and pytube libraries, making video downloading from YouTube an effortless task. By providing users with a simple and user-friendly tool, it enables the quick and convenient storage of YouTube videos on your local device.
 
